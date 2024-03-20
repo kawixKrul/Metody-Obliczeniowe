@@ -1,0 +1,5 @@
+instrukcje urochomienia programu
+potrzebne: kompilator gcc
+wpisac w konsole:
+make all
+./lab1
